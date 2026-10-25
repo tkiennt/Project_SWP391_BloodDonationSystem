@@ -102,10 +102,10 @@ npm start
 ## 👥 6. Tác giả & Đóng góp (Credits)
 
 - **Dự án phát triển bởi:** Đội ngũ phát triển đồ án SWP391.
-- **Thực hiện chính:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)) — *Core Fullstack Developer*.
+- **Thành viên đóng góp:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)).
 
-### 🏆 Đóng góp Nổi bật của Trung Kiên:
-- Đóng góp kỷ lục **258 commits** và hơn **35 Pull Requests** được tích hợp vào nhánh chính.
+### 🏆 Các phần đóng góp:
+- Đóng góp **258 commits** và hơn **35 Pull Requests** được tích hợp vào nhánh chính.
 - Trực tiếp thiết kế và lập trình:
   - Toàn bộ phân hệ **Manager Dashboard** và phân quyền quản lý cơ sở y tế.
   - Thuật toán kiểm tra tính tương thích nhóm máu toàn phần & từng thành phần máu (`BloodCompatibility`).
